@@ -3,3 +3,7 @@ app/db.sqlite3
 app/Pipfile
 app/Pipfile.lock
 app/.vscode
+app/.dockerignore
+app/Dockerfile
+app/Dockerfile.prod
+app/.env.dev
