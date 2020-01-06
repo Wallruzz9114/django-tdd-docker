@@ -7,3 +7,5 @@ app/.dockerignore
 app/Dockerfile
 app/Dockerfile.prod
 app/.env.dev
+app/.pytest_cache
+app/movies.json
