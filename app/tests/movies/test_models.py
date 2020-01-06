@@ -1,6 +1,7 @@
 import pytest
 from movies.models import Movie
 
+
 @pytest.mark.django_db
 def test_movie_model():
     movie = Movie(title="Raising Arizona", genre="comedy", year="1987")
